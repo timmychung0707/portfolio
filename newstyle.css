@@ -1,0 +1,29 @@
+body{
+  front-family:fantsy;
+  margine:0 ;
+  padding:0 ;
+  background: black;
+}
+.timmy {
+  border: 2px solid MediumSeaGreen;
+  display: flex;
+  margin: 0;
+  padding: 1;
+  justify-content: center;
+    background: black
+    color: white
+}
+.timmy li{
+  border: 1px solid gray;
+  flex-direction:row;
+  list-style:none;
+  margin: 20;
+  padding: 20px;
+}
+a {
+  text-decoration:none;
+}
+.tim
+{
+  color: white;
+}
